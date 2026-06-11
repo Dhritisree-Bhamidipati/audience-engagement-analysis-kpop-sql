@@ -173,6 +173,15 @@ While HYBE groups occupied most of the top-viewed rankings, RIIZE's consistently
 * Business Analytics
 * Performance Metric Analysis
 * Exploratory Data Analysis
+  
+---
+
+## Key Findings
+
+- Dance practice videos achieved an average engagement rate of 4.64%, compared to 2.11% for music videos.
+- CORTIS recorded the highest engagement rate among all groups at 4.63%.
+- SM Entertainment achieved higher average views than HYBE groups in this dataset.
+- Several of the highest-engagement videos were dance practices rather than official music videos.
 
 ---
 
